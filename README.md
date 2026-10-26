@@ -4,7 +4,7 @@ React + TypeScript + Vite front end on Supabase (PostgreSQL, Auth, Realtime).
 Three roles: Faculty (log activities), HoD (review their department), Admin (manage people and departments).
 Access rules live in the database as Row Level Security, not only in the UI.
 
-## Run it in Windsurf
+## Run
 
 1. Unzip, then File > Open Folder and pick `faculty-portal`.
 2. Open a terminal (Ctrl + `) and run:
